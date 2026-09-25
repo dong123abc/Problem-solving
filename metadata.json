@@ -1,0 +1,6 @@
+{
+  "name": "Solving Mathematical Problems - Terence Tao (E-Book Reader)",
+  "description": "Nền tảng đọc sách học thuật tương tác cuốn 'Solving Mathematical Problems: A Personal Perspective' của Terence Tao với MathJax, tìm kiếm toàn văn, ghi chú, dấu trang và kiểm tra toàn vẹn dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
